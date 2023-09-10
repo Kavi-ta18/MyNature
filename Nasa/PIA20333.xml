@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="20004" appversion="7.0.6">
+  <input levelbias="0.400" width="3753" leveltileurl="tiles/PIA20333/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelingroll="0" height="3753" levelbiashidpi="1.000" overlap="1">
+    <level preload="0" predecode="0" width="3753" height="3753"/>
+    <level preload="0" predecode="0" width="1876" height="1876"/>
+    <level preload="0" predecode="0" width="938" height="938"/>
+    <level preload="1" predecode="1" width="469" height="469"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="2">
+    <start tilt="0" pan="0" fov="100" projection="4"/>
+    <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+    <min tilt="-11.9675" pan="-180" fovpixel="2"/>
+    <max tilt="11.9675" pan="180" fov="140" fovfisheye="360" fovstereographic="330"/>
+  </view>
+  <userdata author="" comment="" nodeid="node1" source="" info="" heading="0" customnodeid="" title="" description="" copyright="" longitude="" latitude="" datetime="23-04-2016 13:07" tags="Downloads"/>
+  <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+    <label textalpha="1" width="180" enabled="1" background="1" borderalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" backgroundalpha="1" textcolor="0x000000" wordwrap="1"/>
+    <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0"/>
+  </hotspots>
+  <media/>
+  <transition zoomafterinfov="140" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000" softedge="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomoutpause="1" zoomfov="40" delay="none" zoomout="0"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+  <control invertcontrol="1" contextvr="1" sensitivity="8" rubberband="0" hideabout="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" zoomcentercursor="1" lockedwheel="0" simulatemass="1"/>
+  <projectuserdata author="" comment="" description="" copyright="" title="" tags=""/>
+</panorama>
